@@ -1,6 +1,6 @@
 # Password Breaker with Recursion
 
-Description
+# Description
 The Password Breaker with Recursion is a Python script that can be used to crack passwords using a recursive algorithm. The script works by trying every possible combination of characters until the correct password is found. This can be a time-consuming process, but with enough computing power, it is possible to break even complex passwords.
 
 Usage
